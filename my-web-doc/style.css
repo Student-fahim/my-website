@@ -1,0 +1,9 @@
+h1{
+    color: rgb(245, 170, 8);
+    background-color: black;
+}
+button{
+    box-shadow: 20px;
+    color: chocolate;
+    background-color: darkblue;
+}
